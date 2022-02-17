@@ -4,27 +4,27 @@
 
 ## Customer function
 
-| **OD** | **Function**              | **Description**                                                                                       |
-| ------ | ------------------------- | ----------------------------------------------------------------------------------------------------- |
-| 1      | Search Product            | Customers can find exactly the products they want                                                     |
-| 2      | Add Comment               | Customers can write comments for the product                                                          |
-| 3      | Reply Comment             | Customers can reply to comments for the product                                                       |
-| 4      | Add/Edit/Delete to cart   | Customers can manage the products in the cart                                                         |
-| 5      | Add/Delete to wish list   | Customers can manage the products on the wish list                                                    |
-| 6      | View Order Tracking       | Customers can view order tracking                                                                     |
-| 7      | Payment                   | Customers can choose different types of payments                                                      |
-| 8      | View order history        | Customers can view order history based on transacted invoices                                         |
-| 9      | Sign up                   | Customers can register to the website.                                                                |
-| 10     | Sign In                   | Customers can log in to the website.                                                                  |
-| 11     | Forgot Password           | In case the customer forgets the password, It can be recovered via email or phone number verification |
-| 12     | Add/Update/Delete address | Customers can manage their address                                                                    |
-| 13     | Cancel Order              | Customers can cancel the order                                                                        |
-| 14     | Edit Profile              | Customers can edit their information                                                                  |
-| 15     | Change password           | Customers can change their password                                                                   |
-| 18     | Apply gift code           | Customers can apply the gift code to get a discount on the payment                                    |
-| 19     | View discount product     | Customers can view the list of discount products                                                      |
-| 20     | View recommended product  | Customers can view the list of recommended products                                                   |
-| 21     | Filter product            | Customers can filter products                                                                         |
+| **OD** | **Function**              | **Description**                                                          |
+| ------ | ------------------------- | ------------------------------------------------------------------------ |
+| 1      | Search Product            | Customers can find exactly the products they want                        |
+| 2      | Add Comment               | Customers can write comments for the product                             |
+| 3      | Reply Comment             | Customers can reply to comments for the product                          |
+| 4      | Add/Edit/Delete to cart   | Customers can manage the products in the cart                            |
+| 5      | Add/Delete to wish list   | Customers can manage the products on the wish list                       |
+| 6      | View Order Tracking       | Customers can view order tracking                                        |
+| 7      | Payment                   | Customers can choose different types of payments                         |
+| 8      | View order history        | Customers can view order history based on transacted invoices            |
+| 9      | Sign up                   | Customers can register to the website.                                   |
+| 10     | Sign In                   | Customers can log in to the website.                                     |
+| 11     | Forgot Password           | In case the customer forgets the password, it can be recovered via email |
+| 12     | Add/Update/Delete address | Customers can manage their address                                       |
+| 13     | Cancel Order              | Customers can cancel the order                                           |
+| 14     | Edit Profile              | Customers can edit their information                                     |
+| 15     | Change password           | Customers can change their password                                      |
+| 18     | Apply gift code           | Customers can apply the gift code to get a discount on the payment       |
+| 19     | View discount product     | Customers can view the list of discount products                         |
+| 20     | View recommended product  | Customers can view the list of recommended products                      |
+| 21     | Filter product            | Customers can filter products                                            |
 
 ## Admin function
 
