@@ -1,8 +1,17 @@
-## Use case Overview
+# Electronics-Store
 
-![alt text for screen readers](/use-case.png "Text to show on mouseover").
+Electronics store website that customer can buy any electronics from smartphones to televisions with various payment methods\
+Source code: [`code`](https://github.com/nmthanh206/electronics-store)  (private)
+# Technologies
+* Next.js 12.0.x (React Framework)
+* Ant Design 4.17.x
+* Tailwind CSS 2.2.x
+* MongoDB, Mongoose 6.1.x
+* Redux Toolkit 1.6.x
+* React Query 3.32.x
 
-## Customer function
+
+## Customer functions
 
 | **OD** | **Function**              | **Description**                                                          |
 | ------ | ------------------------- | ------------------------------------------------------------------------ |
@@ -26,7 +35,7 @@
 | 20     | View recommended product  | Customers can view the list of recommended products                      |
 | 21     | Filter product            | Customers can filter products                                            |
 
-## Admin function
+## Admin functions
 
 | **OD** | **Function**               | **Description**                                                                           |
 | ------ | -------------------------- | ----------------------------------------------------------------------------------------- |
@@ -42,3 +51,21 @@
 | 10     | Hide/unhide review         | The administrator can hide or unhide review                                               |
 | 11     | Search review              | The administrator can find the review of the product                                      |
 | 12     | View order of the customer | The administrator can view the order of the customer                                      |
+
+## ScreenShots
+
+![home page](/image/home.png "home page").
+![product detail](/image/product-detail.png "product detail").
+![review](/image/review.png "review").
+![cart](/image/cart.png "cart").
+![payment](/image/payment.png "payment").
+![my order](/image/my-order.png "my order").
+![order](/image/order.png "order").
+![order tracking](/image/order-tracking.png "order tracking").
+
+![dashboard page](/image/dashboard.png "dashboard page").
+![admin user](/image/admin-user.png "admin user").
+![admin orders](/image/admin-orders.png "admin orders").
+![admin product](/image/admin-product.png "admin product").
+![admin review](/image/admin-review.png "admin review").
+![admin coupon](/image/admin-coupon.png "admin coupon").
