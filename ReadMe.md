@@ -67,5 +67,6 @@ Source code: [`code`](https://github.com/nmthanh206/electronics-store)  (private
 ![admin user](/image/admin-user.png "admin user").
 ![admin orders](/image/admin-orders.png "admin orders").
 ![admin product](/image/admin-product.png "admin product").
+![admin product](/image/edit-product.png "edit product").
 ![admin review](/image/admin-review.png "admin review").
 ![admin coupon](/image/admin-coupon.png "admin coupon").
