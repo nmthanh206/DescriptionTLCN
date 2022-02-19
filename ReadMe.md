@@ -55,6 +55,7 @@ Source code: [`code`](https://github.com/nmthanh206/electronics-store)  (private
 ## ScreenShots
 
 ![home page](/image/home.png "home page").
+![home page](/image/category.png "category").
 ![product detail](/image/product-detail.png "product detail").
 ![review](/image/review.png "review").
 ![cart](/image/cart.png "cart").
