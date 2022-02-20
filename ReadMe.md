@@ -25,7 +25,7 @@ Source code: [`code`](https://github.com/nmthanh206/electronics-store)  (private
 | 8      | View order history        | Customers can view order history based on transacted invoices            |
 | 9      | Sign up                   | Customers can register to the website.                                   |
 | 10     | Sign In                   | Customers can log in to the website.                                     |
-| 11     | Forgot Password           | In case the customer forgets the password, it can be recovered via email |
+| 11     | Forgot Password           | Customers can retrieve password via email                                |
 | 12     | Add/Update/Delete address | Customers can manage their address                                       |
 | 13     | Cancel Order              | Customers can cancel the order                                           |
 | 14     | Edit Profile              | Customers can edit their information                                     |
@@ -44,9 +44,9 @@ Source code: [`code`](https://github.com/nmthanh206/electronics-store)  (private
 | 3      | Edit Product               | The administrator can update the products                                                 |
 | 4      | Delete Product             | The administrator can delete the products                                                 |
 | 5      | Update Order Status        | The administrator can update the order status                                             |
-| 6      | View sales statistics      | The administrator can view sales statistics depending on revenue, warehouse, access times |
+| 6      | View sales statistics      | The administrator can view sales statistics                                               |
 | 7      | User management            | The administrator can manage the users                                                    |
-| 8      | Coupon management          | The administrator can manage the users                                                    |
+| 8      | Coupon management          | The administrator can manage the coupons                                                  |
 | 9      | Reply review               | The administrator can reply review                                                        |
 | 10     | Hide/unhide review         | The administrator can hide or unhide review                                               |
 | 11     | Search review              | The administrator can find the review of the product                                      |
@@ -60,7 +60,7 @@ Source code: [`code`](https://github.com/nmthanh206/electronics-store)  (private
 ![review](/image/review.png "review").
 ![cart](/image/cart.png "cart").
 ![payment](/image/payment.png "payment").
-![my order](/image/my-order.png "my order").
+![my order](/image/my-orders.png "my order").
 ![order](/image/order.png "order").
 ![order tracking](/image/order-tracking.png "order tracking").
 
