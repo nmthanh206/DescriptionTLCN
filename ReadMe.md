@@ -1,7 +1,7 @@
 # Electronics-Store
 
 Electronics store website that customer can buy any electronics from smartphones to televisions with various payment methods\
-Source code: [`code`](https://github.com/nmthanh206/electronics-store)  (private)
+Source code: [`code`](https://github.com/nmthanh206/electronics-store)  
 # Technologies
 * Next.js 12.0.x (React Framework)
 * Ant Design 4.17.x
